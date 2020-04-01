@@ -8,3 +8,4 @@ Requirements:
 To Start:
 	1. Modify the .env file with your Discord token and guild
 	2. Run the "DMBot.py" file
+
