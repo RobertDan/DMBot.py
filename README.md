@@ -15,7 +15,7 @@ Run the "DMBot.py" file
 Commands:
 --------
 
-To get a list of commands, as well as a short description on what they do, type "!help" into the chat the bot is listening to.  
+To get a list of commands, their extra arguments, as well as a short description on what they do, type "!help" into the chat the bot is listening to.  
 
 Here is a list of implemented commands:  
 
