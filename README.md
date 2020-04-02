@@ -1,10 +1,5 @@
 # DMBot.py
  
-DMBot.py
-=======
-
-
- 
 Requirements:  
 -----------
 Python 3  
