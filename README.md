@@ -30,5 +30,5 @@ Here is a list of implemented commands:
 
 Future Changes:  
 -----------
-[Not Implemented] - Call on specific stat to add to dice roll ("!roll [statname]")
-[Not Implemented] - Shorthand roll parameters to quickly roll a specific stat with a required minimum. Result will be Pass/Fail.
+[Not Implemented] - Call on specific stat to add to dice roll ("!roll [statname]")  
+[Not Implemented] - Shorthand roll parameters to quickly roll a specific stat with a required minimum. Result will be Pass/Fail.  
