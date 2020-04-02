@@ -2,7 +2,7 @@
  
 Requirements:  
 -----------
-Python 3  
+Python 3.5+  
 Discord.py (https://discordpy.readthedocs.io/en/latest/index.html)  
 python-dotenv (https://pypi.org/project/python-dotenv/)  
 
