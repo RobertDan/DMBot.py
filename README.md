@@ -25,7 +25,6 @@ Commands:
 !savecustom [die name] [die definition] -overwrite    --> Overwrites a previously saved custom die  
 !rollcustom [die name]                                --> Rolls a previously saved custom die  
 !loadchar                                             --> Associates you with a character with the same name as your discord username  
-                                                        --> Example: Richard Nixon#0517  
 !loadchar [character name]                            --> Associates you with a character with the given name. Do not use spaces!  
 !stats                                                --> Prints out the stats of the character you are currently associated with  
 !stats [character name]                               --> Prints out the stats of the character name provided. No spaces allowed  
